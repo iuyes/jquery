@@ -28,7 +28,7 @@ module.exports = function(grunt) {
     transport: {
       options: {
         debug: true,
-        idleading: '<%= pkg.family %>/<%= pkg.name %>/<%= pkg.version %>/'
+        idleading: ''
       },
       dist: {
         files: [{
