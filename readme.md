@@ -7,7 +7,7 @@
 
  #usage
 
- sea [demo](https://github.com/crossjs/demo/blob/master/demo/index.html) [demo](https://github.com/crossjs/demo/blob/master/demo/index-debug.html)
+ see [demo](https://github.com/crossjs/demo/blob/master/demo/jquery.html) [demo](https://github.com/crossjs/demo/blob/master/demo/jquery-debug.html)
 
  #history
 
