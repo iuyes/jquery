@@ -1,6 +1,6 @@
 {
   "name": "jquery",
-  "version": "1.11.0",
+  "version": "2.1.0",
   "description": "jquery modified for seajs",
   "keywords": [ "jquery", "seajs", "modules" ],
   "homepage": "https://github.com/crossjs/jquery",
