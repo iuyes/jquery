@@ -5,10 +5,6 @@
 
  > modified for seajs
 
- #usage
+##history
 
- see [demo](https://github.com/crossjs/demo/blob/master/demo/jquery.html) [demo](https://github.com/crossjs/demo/blob/master/demo/jquery-debug.html)
-
- #history
-
- 2014-01-26 - delete idleading
+ - 2014-01-26 - delete idleading
